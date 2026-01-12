@@ -120,12 +120,5 @@ I usually break systems first — then understand them deeply enough to fix and 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+⭐ Thanks for visiting my profile!
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammad-Irshad&theme=dark)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Hammad-Irshad&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Irshad&theme=dark&layout=compact)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Hammad-Irshad&color=0)
